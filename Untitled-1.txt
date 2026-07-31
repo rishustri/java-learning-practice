@@ -1,0 +1,13 @@
+//java
+Independent language
+platform independent language runs on jvm that is java virtual machine'
+compiled+intreopreted= .java- compiles to .clkass executed by jvm 
+every variable must have a type
+
+object orientated:
+class nad obkject
+constructor
+inheritanceabstarction'encapsulation
+polynorrphism
+hybrid
+multilevel
